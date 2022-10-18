@@ -9,12 +9,18 @@ Node.js is a platform for building the i/o applications which are server-side ev
 To connect node.js and MySQL we used express library.  Express is a small framework that sits on top of Node.js's web server functionality to simplify its APIs and add helpful new features.
 
 3. Methodology adopted:
-• Frontend created using express js.
-• We have used CSS for styling the web page.
-• Backend is created using Nodejs(mysql).
-• User can register and login into his account
-• The user details are stored in database(mysql). 
-• User can view health and supplement products, see the description, details and price in products web page
+    • Frontend created using express js.
+
+    • We have used CSS for styling the web page.
+
+    • Backend is created using Nodejs(mysql).
+
+    • User can register and login into his account
+
+    • The user details are stored in database(mysql). 
+
+    • User can view health and supplement products, see the description, details and price in products web page
+
 
 4. UI and Database Design
 
